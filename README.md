@@ -1,4 +1,5 @@
-# lab13
+[![Build Status](https://travis-ci.org/desta-study/lab13.svg?branch=master)](https://travis-ci.org/desta-study/lab13)
+
 ### Задание
 
 Написать программы на **C++** для сериализации и десериализации структуры `Person`.
